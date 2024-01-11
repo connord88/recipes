@@ -4,14 +4,11 @@
 <dict>
     <key>Description</key>
     <string>Downloads lastest version of Vivi available</string>
-
     <key>Identifier</key>
     <string>com.github.connord88.download.Vivi</string>
-
     <key>Input</key>
 <dict>
 </dict>
-
     <key>Process</key>
     <array>
         <dict>
